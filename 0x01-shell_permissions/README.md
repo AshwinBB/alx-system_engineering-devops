@@ -8,3 +8,4 @@
 7-everybody
 8-James-Bond
 9-John-Doe
+10-mirror-permissions
