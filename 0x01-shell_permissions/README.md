@@ -10,3 +10,4 @@
 9-John-Doe
 10-mirror-permissions
 11-directories-permissions
+12-directory-permissions
