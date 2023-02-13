@@ -5,3 +5,4 @@
 4-lastlines
 5-firstlines
 6-third-line
+7-file
