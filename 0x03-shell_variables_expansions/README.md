@@ -12,3 +12,7 @@
 11-binary-to-decimal
 12-combinations
 13-print-float
+100-decimal-to-hexadecimal
+101-rot13
+102-odd
+103-water-and-stir
